@@ -1,7 +1,7 @@
 package com.github.wuxudong.rncharts.charts;
 
-import com.github.ElfenLiedGH.charting.data.Entry;
-import com.github.ElfenLiedGH.charting.formatter.ValueFormatter;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.formatter.ValueFormatter;
 
 import java.util.Map;
 

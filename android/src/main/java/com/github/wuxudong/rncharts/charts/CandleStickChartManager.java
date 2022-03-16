@@ -1,8 +1,8 @@
 package com.github.wuxudong.rncharts.charts;
 
 import com.facebook.react.uimanager.ThemedReactContext;
-import com.github.ElfenLiedGH.charting.charts.CandleStickChart;
-import com.github.ElfenLiedGH.charting.data.CandleEntry;
+import com.github.mikephil.charting.charts.CandleStickChart;
+import com.github.mikephil.charting.data.CandleEntry;
 import com.github.wuxudong.rncharts.data.CandleDataExtract;
 import com.github.wuxudong.rncharts.data.DataExtract;
 import com.github.wuxudong.rncharts.listener.RNOnChartGestureListener;

@@ -1,11 +1,11 @@
 package com.github.wuxudong.rncharts.charts;
 
-import com.github.ElfenLiedGH.charting.charts.BarLineChartBase;
-import com.github.ElfenLiedGH.charting.components.YAxis;
-import com.github.ElfenLiedGH.charting.jobs.ZoomJob;
-import com.github.ElfenLiedGH.charting.utils.MPPointD;
-import com.github.ElfenLiedGH.charting.utils.MPPointF;
-import com.github.ElfenLiedGH.charting.utils.Transformer;
+import com.github.mikephil.charting.charts.BarLineChartBase;
+import com.github.mikephil.charting.components.YAxis;
+import com.github.mikephil.charting.jobs.ZoomJob;
+import com.github.mikephil.charting.utils.MPPointD;
+import com.github.mikephil.charting.utils.MPPointF;
+import com.github.mikephil.charting.utils.Transformer;
 
 import java.lang.ref.WeakReference;
 import java.util.HashMap;
