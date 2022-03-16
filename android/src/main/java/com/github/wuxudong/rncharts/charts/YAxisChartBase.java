@@ -3,9 +3,9 @@ package com.github.wuxudong.rncharts.charts;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableType;
 import com.facebook.react.uimanager.annotations.ReactProp;
-import com.github.mikephil.charting.charts.Chart;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.Entry;
+import com.github.ElfenLiedGH.charting.charts.Chart;
+import com.github.ElfenLiedGH.charting.components.YAxis;
+import com.github.ElfenLiedGH.charting.data.Entry;
 import com.github.wuxudong.rncharts.utils.BridgeUtils;
 
 public abstract class YAxisChartBase<T extends Chart, U extends Entry> extends ChartBaseManager<T, U> {

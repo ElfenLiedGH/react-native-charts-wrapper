@@ -3,11 +3,11 @@ package com.github.wuxudong.rncharts.data;
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableType;
-import com.github.mikephil.charting.charts.Chart;
-import com.github.mikephil.charting.data.RadarData;
-import com.github.mikephil.charting.data.RadarDataSet;
-import com.github.mikephil.charting.data.RadarEntry;
-import com.github.mikephil.charting.interfaces.datasets.IDataSet;
+import com.github.ElfenLiedGH.charting.charts.Chart;
+import com.github.ElfenLiedGH.charting.data.RadarData;
+import com.github.ElfenLiedGH.charting.data.RadarDataSet;
+import com.github.ElfenLiedGH.charting.data.RadarEntry;
+import com.github.ElfenLiedGH.charting.interfaces.datasets.IDataSet;
 import com.github.wuxudong.rncharts.utils.ChartDataSetConfigUtils;
 import com.github.wuxudong.rncharts.utils.ConversionUtil;
 

@@ -1,12 +1,12 @@
 package com.github.wuxudong.rncharts.charts;
 
-import com.github.mikephil.charting.data.BarEntry;
-import com.github.mikephil.charting.data.BubbleEntry;
-import com.github.mikephil.charting.data.CandleEntry;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.data.PieEntry;
-import com.github.mikephil.charting.data.RadarEntry;
-import com.github.mikephil.charting.formatter.ValueFormatter;
+import com.github.ElfenLiedGH.charting.data.BarEntry;
+import com.github.ElfenLiedGH.charting.data.BubbleEntry;
+import com.github.ElfenLiedGH.charting.data.CandleEntry;
+import com.github.ElfenLiedGH.charting.data.Entry;
+import com.github.ElfenLiedGH.charting.data.PieEntry;
+import com.github.ElfenLiedGH.charting.data.RadarEntry;
+import com.github.ElfenLiedGH.charting.formatter.ValueFormatter;
 
 import java.util.Collection;
 

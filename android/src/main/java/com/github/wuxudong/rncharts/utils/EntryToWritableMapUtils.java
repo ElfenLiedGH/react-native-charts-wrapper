@@ -4,12 +4,12 @@ import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.bridge.WritableNativeArray;
 import com.facebook.react.bridge.WritableNativeMap;
-import com.github.mikephil.charting.data.BarEntry;
-import com.github.mikephil.charting.data.BubbleEntry;
-import com.github.mikephil.charting.data.CandleEntry;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.data.PieEntry;
-import com.github.mikephil.charting.data.RadarEntry;
+import com.github.ElfenLiedGH.charting.data.BarEntry;
+import com.github.ElfenLiedGH.charting.data.BubbleEntry;
+import com.github.ElfenLiedGH.charting.data.CandleEntry;
+import com.github.ElfenLiedGH.charting.data.Entry;
+import com.github.ElfenLiedGH.charting.data.PieEntry;
+import com.github.ElfenLiedGH.charting.data.RadarEntry;
 
 import org.json.JSONArray;
 import org.json.JSONException;

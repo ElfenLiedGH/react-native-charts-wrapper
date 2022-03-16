@@ -2,10 +2,10 @@ package com.github.wuxudong.rncharts.listener;
 
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.uimanager.events.RCTEventEmitter;
-import com.github.mikephil.charting.charts.Chart;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.highlight.Highlight;
-import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
+import com.github.ElfenLiedGH.charting.charts.Chart;
+import com.github.ElfenLiedGH.charting.data.Entry;
+import com.github.ElfenLiedGH.charting.highlight.Highlight;
+import com.github.ElfenLiedGH.charting.listener.OnChartValueSelectedListener;
 import com.github.wuxudong.rncharts.utils.EntryToWritableMapUtils;
 
 import java.lang.ref.WeakReference;

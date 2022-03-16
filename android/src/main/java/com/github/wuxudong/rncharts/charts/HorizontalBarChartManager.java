@@ -1,8 +1,8 @@
 package com.github.wuxudong.rncharts.charts;
 
 import com.facebook.react.uimanager.ThemedReactContext;
-import com.github.mikephil.charting.charts.BarChart;
-import com.github.mikephil.charting.charts.HorizontalBarChart;
+import com.github.ElfenLiedGH.charting.charts.BarChart;
+import com.github.ElfenLiedGH.charting.charts.HorizontalBarChart;
 import com.github.wuxudong.rncharts.listener.RNOnChartGestureListener;
 import com.github.wuxudong.rncharts.listener.RNOnChartValueSelectedListener;
 

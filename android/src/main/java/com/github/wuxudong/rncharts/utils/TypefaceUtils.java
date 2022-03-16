@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableType;
 import com.facebook.react.views.text.ReactFontManager;
-import com.github.mikephil.charting.charts.Chart;
+import com.github.ElfenLiedGH.charting.charts.Chart;
 
 /**
  * Created by wuxudong on 2018/7/25.

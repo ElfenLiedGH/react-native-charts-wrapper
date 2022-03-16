@@ -1,6 +1,6 @@
 package com.github.wuxudong.rncharts.charts;
 
-import com.github.mikephil.charting.formatter.ValueFormatter;
+import com.github.ElfenLiedGH.charting.formatter.ValueFormatter;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

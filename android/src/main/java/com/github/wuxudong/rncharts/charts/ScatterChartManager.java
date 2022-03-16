@@ -2,8 +2,8 @@ package com.github.wuxudong.rncharts.charts;
 
 
 import com.facebook.react.uimanager.ThemedReactContext;
-import com.github.mikephil.charting.charts.ScatterChart;
-import com.github.mikephil.charting.data.Entry;
+import com.github.ElfenLiedGH.charting.charts.ScatterChart;
+import com.github.ElfenLiedGH.charting.data.Entry;
 import com.github.wuxudong.rncharts.data.DataExtract;
 import com.github.wuxudong.rncharts.data.ScatterDataExtract;
 import com.github.wuxudong.rncharts.listener.RNOnChartGestureListener;

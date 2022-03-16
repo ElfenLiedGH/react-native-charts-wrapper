@@ -1,9 +1,9 @@
 package com.github.wuxudong.rncharts.markers;
 
-import com.github.mikephil.charting.components.MarkerView;
+import com.github.ElfenLiedGH.charting.components.MarkerView;
 import android.content.Context;
 
-import com.github.mikephil.charting.utils.MPPointF;
+import com.github.ElfenLiedGH.charting.utils.MPPointF;
 import com.github.wuxudong.rncharts.R;
 
 public class RNCircleMarkerView extends MarkerView {

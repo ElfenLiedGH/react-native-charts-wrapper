@@ -2,8 +2,8 @@ package com.github.wuxudong.rncharts.charts;
 
 
 import com.facebook.react.uimanager.ThemedReactContext;
-import com.github.mikephil.charting.charts.BubbleChart;
-import com.github.mikephil.charting.data.BubbleEntry;
+import com.github.ElfenLiedGH.charting.charts.BubbleChart;
+import com.github.ElfenLiedGH.charting.data.BubbleEntry;
 import com.github.wuxudong.rncharts.data.BubbleDataExtract;
 import com.github.wuxudong.rncharts.data.DataExtract;
 import com.github.wuxudong.rncharts.listener.RNOnChartGestureListener;
