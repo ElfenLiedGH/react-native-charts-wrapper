@@ -1,5 +1,5 @@
 import Foundation
-import Charts-EL
+import ChartsEL
 
 open class CircleMarker: MarkerImage
 {

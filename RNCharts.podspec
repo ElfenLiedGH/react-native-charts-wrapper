@@ -13,14 +13,14 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/wuxudong/react-native-charts-wrapper.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ElfenLiedGH/react-native-charts-wrapper.git", :tag => "#{s.version}" }
   s.source_files = "ios/ReactNativeCharts/**/*.{h,m,swift}"
   s.static_framework = true
 
   s.swift_version = '5.0'
   s.dependency 'React'
   s.dependency 'SwiftyJSON', '5.0'
-  s.dependency 'Charts-EL', '3.6.0-EL-0'
+  s.dependency 'ChartsEL', '3.6.0-EL-2'
 
 
 end
