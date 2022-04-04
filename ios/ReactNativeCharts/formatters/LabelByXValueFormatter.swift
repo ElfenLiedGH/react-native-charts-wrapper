@@ -1,5 +1,5 @@
 import Foundation
-import Charts
+import Charts-EL
 
 open class LabelByXValueFormatter: NSObject, IValueFormatter, IAxisValueFormatter {
 

@@ -2,7 +2,7 @@
 //  Copyright wuxudong
 //
 
-import Charts
+import Charts-EL
 import SwiftyJSON
 
 class RNLineChartView: RNBarLineChartViewBase {

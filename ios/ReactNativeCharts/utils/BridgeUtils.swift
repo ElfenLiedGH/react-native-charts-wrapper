@@ -5,7 +5,7 @@
 
 import Foundation
 import SwiftyJSON
-import Charts
+import Charts-EL
 
 class BridgeUtils {
     static func toIOSAlpha(_ alpha: NSNumber) -> CGFloat {

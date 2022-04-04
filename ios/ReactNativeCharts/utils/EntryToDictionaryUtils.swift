@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Charts
+import Charts-EL
 import SwiftyJSON
 
 class EntryToDictionaryUtils: NSObject {

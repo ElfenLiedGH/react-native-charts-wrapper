@@ -4,7 +4,7 @@
 //
 
 import Foundation
-import Charts
+import Charts-EL
 import SwiftyJSON
 
 class RNBarLineChartViewBase: RNYAxisChartViewBase {
