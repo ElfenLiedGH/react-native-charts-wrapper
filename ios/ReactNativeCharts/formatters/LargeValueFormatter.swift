@@ -4,7 +4,7 @@
 //  Copyright © 2016 dcg. All rights reserved.
 //
 import Foundation
-import Charts-EL
+import ChartsEL
 
 open class LargeValueFormatter: NSObject, IValueFormatter, IAxisValueFormatter
 {

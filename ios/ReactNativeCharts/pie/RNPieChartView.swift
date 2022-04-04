@@ -2,7 +2,7 @@
 //  Copyright wuxudong
 //
 
-import Charts-EL
+import ChartsEL
 import SwiftyJSON
 
 class RNPieChartView: RNChartViewBase {
